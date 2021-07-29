@@ -1,0 +1,4 @@
+Hello sir,i have succesfully done and implement given assignment before time limit.Also i have well commented my code.Code is in format of py and
+also have exe to run.There is an also static folder which has all images.And one thing i have changed is dataset extension xlsx to csv to perform the queries.
+
+Thank you!

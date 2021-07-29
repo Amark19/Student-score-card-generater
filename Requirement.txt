@@ -1,0 +1,4 @@
+modules required
+
+#pandas
+#reportlab
